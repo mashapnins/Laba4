@@ -1,1 +1,1 @@
-print("Laba 4")
+print("Laba4")
