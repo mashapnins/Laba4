@@ -1,0 +1,1 @@
+print("Laba4")
